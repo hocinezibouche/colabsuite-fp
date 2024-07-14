@@ -1,0 +1,197 @@
+{
+  "node": {
+    "e121616c981173005fcb8de801970d457d5ce8ea": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "5c7f3635fc3a064d3e5eb4262b2eab99207a2ab6": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "fe297673d2d15d10c6122cbb3127a22185f67a8b": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "94345753bc3fdbf888cb80492795ee359441972b": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "c265bcdce8fcfcae6b4dd8859fabbb3616bb9025": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "6f8241a8e518dea6b0e47cc6ae2a0a3f8c0fa77d": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "f2a610cf3788099dbfd80447b43a2e87ae2cf52e": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "9762202cf16e76f545fc5406f539b8ae858f4ddd": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "a80e94e0594f1b921871229f044273e51c6b71d4": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "f8b23b684f92cd3c7d2fd2789c286129379a4f07": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "5cf5bfc51d543e469f8ec49675ce1d78e3051819": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "1c9a2d46e1cbc9485f496f2be756d968c7df4cfd": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "439b40cc4276ed9d4ac15cd279ce6568f479042e": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "ce38f8b17dc2aaa3c09f3f1707a12c8576b3ea52": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "b587b1900f9672ed03115207e7824c7cace62d3f": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "3822f757fef44f1d04421d3b8a46f867ff1ef443": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "4c0f0e20c2e9af9c61c93c809c304f22efd098c9": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "adeb5783ddcf9f2817d098892f851f99bc4be026": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "3f8620ad417aca754a5b62aa56191d44ef858dfc": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "cd5d83e2b6765a4a6005a4385128feb8bdbf6318": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "6ff63b91c0bb86bd1f678b6abed0836660a65280": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "5d6925e9202b16038d9575a0f409201793933586": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "1d4ef6decdfc2e92f9f716ba1dfc09eec017289d": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    },
+    "e87b0c6ad0c9ee4f0f66b16c88c0c3a7fd94ab19": {
+      "workers": {
+        "app/(site)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDownloads%5C%5CColabsuite%5C%5Cwebprodigies-cypress%5C%5Csrc%5C%5Clib%5C%5Csupabase%5C%5Cqueries.ts%22%2C%5B%22getFolders%22%2C%22getFiles%22%2C%22deleteFile%22%2C%22updateWorkspace%22%2C%22getCollaborators%22%2C%22updateFile%22%2C%22getCollaboratingWorkspaces%22%2C%22getUserSubscriptionStatus%22%2C%22getFileDetails%22%2C%22deleteFolder%22%2C%22getFolderDetails%22%2C%22getUsersFromSearch%22%2C%22createWorkspace%22%2C%22deleteWorkspace%22%2C%22getWorkspaceDetails%22%2C%22createFile%22%2C%22getPrivateWorkspaces%22%2C%22addCollaborators%22%2C%22createFolder%22%2C%22removeCollaborators%22%2C%22findUser%22%2C%22getActiveProductsWithPrice%22%2C%22getSharedWorkspaces%22%2C%22updateFolder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(site)/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
